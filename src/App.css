@@ -1,0 +1,15 @@
+header{
+    position: relative;
+    height: fit-content;
+}
+main{
+    position: relative;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    position: relative;
+    height: fit-content;
+}

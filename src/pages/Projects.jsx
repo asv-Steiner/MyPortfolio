@@ -40,14 +40,14 @@ useEffect(() => {
         
      <a href="https://liveworldsweather.netlify.app/">< div id='card'>
      <img src="https://dl.memuplay.com/new_market/img/com.appsinnova.weatherforecast.liveweather.icon.2023-09-15-22-20-27.png" alt="image-project" />
-        <h1>Live Weather</h1>
+        <h1 style={{fontSize : "2rem"}} >Live Weather</h1>
       </div>
       </a>
 
 
       <a href="https://getitnoww.netlify.app/">< div id='card'>
      <img src="https://media.istockphoto.com/id/1304570729/vector/front-end-development-concept-vector-flat-graphic-design-illustration.jpg?s=612x612&w=0&k=20&c=0lpu0j-4FbuoA7xpGzt9apKZeI5F9KlNNe0qRYxjUYs=" alt="image-project" />
-        <h1>Front-End design</h1>
+        <h1 style={{fontSize : "2rem"}}>Front-End design</h1>
       </div>
       </a>
       
